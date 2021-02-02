@@ -1,4 +1,4 @@
-This folder contains the files for the RTS Labs Code Exercise.
+This folder contains the files for the RTS Labs Code Exercise. Python code was developed in version 3.7
 
 RTS_Question1.py takes two inputs from the user, an array of numbers entered one at a time, and a number to compare against the array. 
 The output is the count of integers in the array that are above the comparator value and the amount of integers that are below.
